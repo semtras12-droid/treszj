@@ -1,0 +1,4 @@
+# Telethon session files contain account login data
+session/
+*.session
+*.session-journal
